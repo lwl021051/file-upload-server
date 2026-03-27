@@ -1,0 +1,4543 @@
+{
+    "results": [
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-02-10T06:05:19Z",
+            "homepageId": "31293442",
+            "description": null,
+            "icon": null,
+            "name": "OSB - Asia",
+            "key": "OSB",
+            "id": "31293440",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/OSB"
+            },
+            "currentActiveAlias": "OSB"
+        },
+        {
+            "spaceOwnerId": "61e7b3fa78cb690071520b2e",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-12-01T04:00:09Z",
+            "homepageId": "31424514",
+            "description": null,
+            "icon": null,
+            "name": "RSIM2 IA Stocktake – HK",
+            "key": "ARISH",
+            "id": "31424512",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ARISH"
+            },
+            "currentActiveAlias": "ARISH"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-09-18T22:19:16.053Z",
+            "homepageId": "31555586",
+            "description": null,
+            "icon": null,
+            "name": "Paid Elastic Stack",
+            "key": "ELKP",
+            "id": "31555584",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ELKP"
+            },
+            "currentActiveAlias": "ELKP"
+        },
+        {
+            "spaceOwnerId": "61e7b3fa78cb690071520b2e",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-09-07T23:49:17.967Z",
+            "homepageId": "31686658",
+            "description": null,
+            "icon": null,
+            "name": "RSIM2 - WTCID",
+            "key": "ARWID",
+            "id": "31686656",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ARWID"
+            },
+            "currentActiveAlias": "ARWID"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-04-21T07:34:40Z",
+            "homepageId": "31817730",
+            "description": null,
+            "icon": null,
+            "name": "Pampanga DC3 - WTCPH",
+            "key": "PHDC3",
+            "id": "31817728",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/PHDC3"
+            },
+            "currentActiveAlias": "PHDC3"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-07-16T02:16:17Z",
+            "homepageId": "31948802",
+            "description": null,
+            "icon": null,
+            "name": "Payment Gateway",
+            "key": "PGPOS",
+            "id": "31948800",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/PGPOS"
+            },
+            "currentActiveAlias": "PGPOS"
+        },
+        {
+            "spaceOwnerId": "61e7b3fa78cb690071520b2e",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-10-08T06:22:16Z",
+            "homepageId": "32079874",
+            "description": null,
+            "icon": null,
+            "name": "RSIM2 - WTCSG",
+            "key": "ARWSG",
+            "id": "32079872",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ARWSG"
+            },
+            "currentActiveAlias": "ARWSG"
+        },
+        {
+            "spaceOwnerId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2024-08-04T22:35:18.576Z",
+            "homepageId": "32210946",
+            "description": null,
+            "icon": null,
+            "name": "PES - WI",
+            "key": "WIPES",
+            "id": "32210944",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/WIPES"
+            },
+            "currentActiveAlias": "WIPES"
+        },
+        {
+            "spaceOwnerId": "61e7b3fa78cb690071520b2e",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-01-05T09:04:55Z",
+            "homepageId": "32342018",
+            "description": null,
+            "icon": null,
+            "name": "RSIM2 - WTCTH",
+            "key": "ARWTHC",
+            "id": "32342016",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ARWTHC"
+            },
+            "currentActiveAlias": "ARWTHC"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-06-04T10:15:21Z",
+            "homepageId": "32473090",
+            "description": null,
+            "icon": null,
+            "name": "PNSHK - Super eDC Automation Project",
+            "key": "SeDC",
+            "id": "32473088",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/SeDC"
+            },
+            "currentActiveAlias": "SeDC"
+        },
+        {
+            "spaceOwnerId": "61e7b3fa78cb690071520b2e",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-06-21T07:24:33Z",
+            "homepageId": "32604162",
+            "description": null,
+            "icon": null,
+            "name": "RSIM2 - WWHK",
+            "key": "ARWW",
+            "id": "32604160",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/ARWW"
+            },
+            "currentActiveAlias": "ARWW"
+        },
+        {
+            "spaceOwnerId": "61e7b3fa78cb690071520b2e",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-07-28T19:11:45.036Z",
+            "homepageId": "32735234",
+            "description": null,
+            "icon": null,
+            "name": "RSIMClickAndCollect - All",
+            "key": "RCNC",
+            "id": "32735232",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/RCNC"
+            },
+            "currentActiveAlias": "RCNC"
+        },
+        {
+            "spaceOwnerId": "61e7b3e45fcc37006872800f",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-05-10T09:44:13Z",
+            "homepageId": "32866306",
+            "description": null,
+            "icon": null,
+            "name": "POS Return",
+            "key": "POSRA",
+            "id": "32866304",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/POSRA"
+            },
+            "currentActiveAlias": "POSRA"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-11-28T22:57:23.294Z",
+            "homepageId": "32997378",
+            "description": null,
+            "icon": null,
+            "name": "PowerBI - FTRHK",
+            "key": "FTRPBI",
+            "id": "32997376",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/FTRPBI"
+            },
+            "currentActiveAlias": "FTRPBI"
+        },
+        {
+            "spaceOwnerId": "5f8ed592606d40006935a558",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2019-08-21T11:41:59Z",
+            "homepageId": "33128450",
+            "description": null,
+            "icon": null,
+            "name": "RTS2.0+Real-time KPI dashboard",
+            "key": "RKD",
+            "id": "33128448",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/RKD"
+            },
+            "currentActiveAlias": "RKD"
+        },
+        {
+            "spaceOwnerId": "628dca63cf01a10069ad72a5",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-07-01T19:06:17.513Z",
+            "homepageId": "33292290",
+            "description": null,
+            "icon": null,
+            "name": "PRIME",
+            "key": "PRIME",
+            "id": "33292288",
+            "type": "collaboration",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/PRIME"
+            },
+            "currentActiveAlias": "PRIME"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-02-09T23:44:56.196Z",
+            "homepageId": "33423362",
+            "description": null,
+            "icon": null,
+            "name": "Pro*C - PL/SQL Conversion - WTCMY",
+            "key": "PCLM",
+            "id": "33423360",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/PCLM"
+            },
+            "currentActiveAlias": "PCLM"
+        },
+        {
+            "spaceOwnerId": "5f8ed592606d40006935a558",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2025-01-10T02:14:51.977Z",
+            "homepageId": "33554434",
+            "description": null,
+            "icon": null,
+            "name": "RTSDS-Real-time Sales Data Service",
+            "key": "RTSDS",
+            "id": "33554432",
+            "type": "collaboration",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/RTSDS"
+            },
+            "currentActiveAlias": "RTSDS"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-11-19T10:05:06Z",
+            "homepageId": "33685506",
+            "description": null,
+            "icon": null,
+            "name": "PromoRight - PNSHK",
+            "key": "PMRP",
+            "id": "33685504",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/PMRP"
+            },
+            "currentActiveAlias": "PMRP"
+        },
+        {
+            "spaceOwnerId": "61e7b3d384311c0069275a25",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-03-11T08:42:25Z",
+            "homepageId": "33816578",
+            "description": null,
+            "icon": null,
+            "name": "RunMyJob Knowledge Base - Asia",
+            "key": "RKBA",
+            "id": "33816576",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/RKBA"
+            },
+            "currentActiveAlias": "RKBA"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-03-20T03:31:23Z",
+            "homepageId": "33947650",
+            "description": null,
+            "icon": null,
+            "name": "Promotion Builder - Asia",
+            "key": "PBA",
+            "id": "33947648",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/PBA"
+            },
+            "currentActiveAlias": "PBA"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-05-02T18:49:58.449Z",
+            "homepageId": "34078722",
+            "description": null,
+            "icon": null,
+            "name": "Promotion Master",
+            "key": "promom",
+            "id": "34078720",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/promom"
+            },
+            "currentActiveAlias": "promom"
+        },
+        {
+            "spaceOwnerId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2024-08-04T23:15:26.162Z",
+            "homepageId": "34209794",
+            "description": null,
+            "icon": null,
+            "name": "SA AAC - WI",
+            "key": "WISAAC",
+            "id": "34209792",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/WISAAC"
+            },
+            "currentActiveAlias": "WISAAC"
+        },
+        {
+            "spaceOwnerId": "628dca8af2ee4a0069dfb28c",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2025-04-13T19:12:34.699Z",
+            "homepageId": "34340866",
+            "description": null,
+            "icon": null,
+            "name": "R10 Config",
+            "key": "R10CFG",
+            "id": "34340864",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/R10CFG"
+            },
+            "currentActiveAlias": "R10CFG"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-06-22T03:50:38Z",
+            "homepageId": "34471938",
+            "description": null,
+            "icon": null,
+            "name": "Satellite eDC - WTCTH",
+            "key": "THSE",
+            "id": "34471936",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/THSE"
+            },
+            "currentActiveAlias": "THSE"
+        },
+        {
+            "spaceOwnerId": "61e7b3e9b134e8007019a785",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-04-16T01:13:31.982Z",
+            "homepageId": "34603010",
+            "description": null,
+            "icon": null,
+            "name": "R10 GIT",
+            "key": "R10",
+            "id": "34603008",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/R10"
+            },
+            "currentActiveAlias": "R10"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-06-04T07:16:44Z",
+            "homepageId": "34734082",
+            "description": null,
+            "icon": null,
+            "name": "Scan And Go - Asia",
+            "key": "SNG",
+            "id": "34734080",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/SNG"
+            },
+            "currentActiveAlias": "SNG"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-06-17T08:04:28Z",
+            "homepageId": "34865154",
+            "description": null,
+            "icon": null,
+            "name": "Scan and Go shopping cart service",
+            "key": "SAGS",
+            "id": "34865152",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/SAGS"
+            },
+            "currentActiveAlias": "SAGS"
+        },
+        {
+            "spaceOwnerId": "61e7b3c4b134e8007019a5e3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-07-15T01:04:43.536Z",
+            "homepageId": "34996226",
+            "description": null,
+            "icon": null,
+            "name": "R10 PGPOS - ALL",
+            "key": "APGPOS",
+            "id": "34996224",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/APGPOS"
+            },
+            "currentActiveAlias": "APGPOS"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-07-07T09:33:43Z",
+            "homepageId": "35127298",
+            "description": null,
+            "icon": null,
+            "name": "RBAC - Asia",
+            "key": "RBAC",
+            "id": "35127296",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/RBAC"
+            },
+            "currentActiveAlias": "RBAC"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-05-09T20:06:57.047Z",
+            "homepageId": "35258370",
+            "description": null,
+            "icon": null,
+            "name": "SD Asset Tracking - UK",
+            "key": "UKET",
+            "id": "35258368",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/UKET"
+            },
+            "currentActiveAlias": "UKET"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-02-21T01:50:18.051Z",
+            "homepageId": "35389442",
+            "description": null,
+            "icon": null,
+            "name": "SecOps Projects - GIT",
+            "key": "SOCP",
+            "id": "35389440",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/SOCP"
+            },
+            "currentActiveAlias": "SOCP"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-09-02T02:27:36Z",
+            "homepageId": "35520514",
+            "description": null,
+            "icon": null,
+            "name": "Reading Room",
+            "key": "RR",
+            "id": "35520512",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/RR"
+            },
+            "currentActiveAlias": "RR"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-02-23T00:55:29.953Z",
+            "homepageId": "35651586",
+            "description": null,
+            "icon": null,
+            "name": "SecOps Service Desk - GIT",
+            "key": "SOCO",
+            "id": "35651584",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/SOCO"
+            },
+            "currentActiveAlias": "SOCO"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-04-21T09:20:09Z",
+            "homepageId": "35782658",
+            "description": null,
+            "icon": null,
+            "name": "Self-Checkout (SCO) - Asia",
+            "key": "SCO",
+            "id": "35782656",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/SCO"
+            },
+            "currentActiveAlias": "SCO"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-05-17T08:33:21Z",
+            "homepageId": "35913730",
+            "description": null,
+            "icon": null,
+            "name": "Sell eCard",
+            "key": "SECD",
+            "id": "35913728",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/SECD"
+            },
+            "currentActiveAlias": "SECD"
+        },
+        {
+            "spaceOwnerId": "712020:77f19515-65f2-4732-b396-33d456d4ff43",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-03-06T00:00:00.493Z",
+            "homepageId": "36044802",
+            "description": null,
+            "icon": null,
+            "name": "ServiceNow Platform - Group IT",
+            "key": "SNGIT",
+            "id": "36044800",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/SNGIT"
+            },
+            "currentActiveAlias": "SNGIT"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-04-21T07:17:39Z",
+            "homepageId": "36175874",
+            "description": null,
+            "icon": null,
+            "name": "Service Portal - FTRHK",
+            "key": "SVP",
+            "id": "36175872",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/SVP"
+            },
+            "currentActiveAlias": "SVP"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0088",
+            "authorId": "5d6dd9ba7dfaa80d9053ca35",
+            "createdAt": "2024-10-03T00:54:21.645Z",
+            "homepageId": "36306946",
+            "description": null,
+            "icon": null,
+            "name": "Shirley Kwan",
+            "key": "~5d6dd9ba7dfaa80d9053ca35",
+            "id": "36306944",
+            "type": "personal",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/~5d6dd9ba7dfaa80d9053ca35"
+            },
+            "currentActiveAlias": "~5d6dd9ba7dfaa80d9053ca35"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-04-23T08:06:02Z",
+            "homepageId": "36438018",
+            "description": null,
+            "icon": null,
+            "name": "Slim4 GIT - Asia",
+            "key": "ASLIM",
+            "id": "36438016",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/ASLIM"
+            },
+            "currentActiveAlias": "ASLIM"
+        },
+        {
+            "spaceOwnerId": "8a7f808a7c706c75017c72cd703f0086",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-04-07T10:16:20Z",
+            "homepageId": "36569090",
+            "description": null,
+            "icon": null,
+            "name": "SMP & eSeries - FTRHK",
+            "key": "FSMP",
+            "id": "36569088",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/FSMP"
+            },
+            "currentActiveAlias": "FSMP"
+        },
+        {
+            "spaceOwnerId": "5ca56177e623ae19ec54edd2",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2019-08-12T03:58:22Z",
+            "homepageId": "36700162",
+            "description": null,
+            "icon": null,
+            "name": "Space",
+            "key": "SPAC",
+            "id": "36700160",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/SPAC"
+            },
+            "currentActiveAlias": "SPAC"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-09-09T08:30:50.978Z",
+            "homepageId": "38633744",
+            "description": null,
+            "icon": null,
+            "name": "AC",
+            "key": "~5e9554677a2ea00c1533eec3",
+            "id": "38633474",
+            "type": "personal",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/~5e9554677a2ea00c1533eec3"
+            },
+            "currentActiveAlias": "~5e9554677a2ea00c1533eec3"
+        },
+        {
+            "spaceOwnerId": "712020:5eb3837a-6eab-49e3-b470-b419a83a3199",
+            "authorId": "712020:5eb3837a-6eab-49e3-b470-b419a83a3199",
+            "createdAt": "2025-09-10T01:36:44.237Z",
+            "homepageId": "39354502",
+            "description": null,
+            "icon": null,
+            "name": "Peter Lai (ASW - Contract Developer, GIT Asia)",
+            "key": "~7120205eb3837a6eab49e3b470b419a83a3199",
+            "id": "39354370",
+            "type": "personal",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/~7120205eb3837a6eab49e3b470b419a83a3199"
+            },
+            "currentActiveAlias": "~7120205eb3837a6eab49e3b470b419a83a3199"
+        },
+        {
+            "spaceOwnerId": "712020:9187d7a8-0806-4d4b-b7eb-e4cae3f4db41",
+            "authorId": "712020:9187d7a8-0806-4d4b-b7eb-e4cae3f4db41",
+            "createdAt": "2025-09-10T07:18:54.261Z",
+            "homepageId": "39453147",
+            "description": null,
+            "icon": null,
+            "name": "Carmen KM Leung (ASW - Business Analyst, GIT Asia)",
+            "key": "~7120209187d7a808064d4bb7ebe4cae3f4db41",
+            "id": "39452808",
+            "type": "personal",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/~7120209187d7a808064d4bb7ebe4cae3f4db41"
+            },
+            "currentActiveAlias": "~7120209187d7a808064d4bb7ebe4cae3f4db41"
+        },
+        {
+            "spaceOwnerId": "712020:77f19515-65f2-4732-b396-33d456d4ff43",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-04-25T23:09:45.207Z",
+            "homepageId": "40665090",
+            "description": null,
+            "icon": null,
+            "name": "Cert Management - GIT",
+            "key": "CERTMA",
+            "id": "40665088",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/CERTMA"
+            },
+            "currentActiveAlias": "CERTMA"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-11-13T09:01:15Z",
+            "homepageId": "40861698",
+            "description": null,
+            "icon": null,
+            "name": "eDC in-house PPM project - WTCTW",
+            "key": "TWDC",
+            "id": "40861696",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/TWDC"
+            },
+            "currentActiveAlias": "TWDC"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-07-28T20:03:46.076Z",
+            "homepageId": "40992771",
+            "description": null,
+            "icon": null,
+            "name": "Red Tote Consolidation",
+            "key": "THRTC",
+            "id": "40992769",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/THRTC"
+            },
+            "currentActiveAlias": "THRTC"
+        },
+        {
+            "spaceOwnerId": "5ca56177e623ae19ec54edd2",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-04-20T19:53:53.775Z",
+            "homepageId": "41156610",
+            "description": null,
+            "icon": null,
+            "name": "Space Master Project - PNSHK",
+            "key": "PNSSM",
+            "id": "41156608",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/PNSSM"
+            },
+            "currentActiveAlias": "PNSSM"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-11-04T19:12:48.826Z",
+            "homepageId": "41287684",
+            "description": null,
+            "icon": null,
+            "name": "Knowledge Hub - EUC",
+            "key": "EUC",
+            "id": "41287682",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/EUC"
+            },
+            "currentActiveAlias": "EUC"
+        },
+        {
+            "spaceOwnerId": "5d6dd9ba7dfaa80d9053ca35",
+            "authorId": "5d6dd9ba7dfaa80d9053ca35",
+            "createdAt": "2020-04-06T15:52:46Z",
+            "homepageId": "41418754",
+            "description": null,
+            "icon": null,
+            "name": "[Admin] Template",
+            "key": "AT",
+            "id": "41418752",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/AT"
+            },
+            "currentActiveAlias": "AT"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-10-18T00:26:58.728Z",
+            "homepageId": "41549826",
+            "description": null,
+            "icon": null,
+            "name": "Checklist - Asia",
+            "key": "CHKLST",
+            "id": "41549824",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/CHKLST"
+            },
+            "currentActiveAlias": "CHKLST"
+        },
+        {
+            "spaceOwnerId": "712020:f4cdb047-5609-4b56-8f75-5b1daa7b7041",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-10-16T10:46:27Z",
+            "homepageId": "41680898",
+            "description": null,
+            "icon": null,
+            "name": "Refund Process Automation - RetailHK",
+            "key": "REF",
+            "id": "41680896",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/REF"
+            },
+            "currentActiveAlias": "REF"
+        },
+        {
+            "spaceOwnerId": "6108b4553900e60070e4b45d",
+            "authorId": "6108b4553900e60070e4b45d",
+            "createdAt": "2021-01-22T08:10:52Z",
+            "homepageId": "41811970",
+            "description": null,
+            "icon": null,
+            "name": "SPICE Project",
+            "key": "PHSP",
+            "id": "41811968",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/PHSP"
+            },
+            "currentActiveAlias": "PHSP"
+        },
+        {
+            "spaceOwnerId": "712020:77f19515-65f2-4732-b396-33d456d4ff43",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-04-22T23:28:38.245Z",
+            "homepageId": "41943042",
+            "description": null,
+            "icon": null,
+            "name": "Elastic Platform - Group IT",
+            "key": "ELKGIT",
+            "id": "41943040",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ELKGIT"
+            },
+            "currentActiveAlias": "ELKGIT"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-09-30T01:03:59.329Z",
+            "homepageId": "42074114",
+            "description": null,
+            "icon": null,
+            "name": "Kong 3.x Major Upgrade - Group IT",
+            "key": "K3MU",
+            "id": "42074112",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/K3MU"
+            },
+            "currentActiveAlias": "K3MU"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-08-02T01:43:49.571Z",
+            "homepageId": "42205186",
+            "description": null,
+            "icon": null,
+            "name": "Aftership Pandago - WTCHK",
+            "key": "HKAP",
+            "id": "42205184",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/HKAP"
+            },
+            "currentActiveAlias": "HKAP"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-04-21T06:22:43Z",
+            "homepageId": "42336258",
+            "description": null,
+            "icon": null,
+            "name": "Commission - FTRHK",
+            "key": "COM",
+            "id": "42336256",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/COM"
+            },
+            "currentActiveAlias": "COM"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-03-30T03:31:36Z",
+            "homepageId": "42467330",
+            "description": null,
+            "icon": null,
+            "name": "ReSA - WTCPH",
+            "key": "SAPH",
+            "id": "42467328",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/SAPH"
+            },
+            "currentActiveAlias": "SAPH"
+        },
+        {
+            "spaceOwnerId": "557058:3a7bc499-81ef-4be6-b313-fa76bb0f8baa",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-09-10T04:29:29Z",
+            "homepageId": "42598402",
+            "description": null,
+            "icon": null,
+            "name": "Elecboy - FTRHK",
+            "key": "ELEC",
+            "id": "42598400",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ELEC"
+            },
+            "currentActiveAlias": "ELEC"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-10-20T01:12:45.563Z",
+            "homepageId": "42729474",
+            "description": null,
+            "icon": null,
+            "name": "AfterShip Postmen HDS NinjaVan - WTCTH",
+            "key": "THAN",
+            "id": "42729472",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/THAN"
+            },
+            "currentActiveAlias": "THAN"
+        },
+        {
+            "spaceOwnerId": "712020:77f19515-65f2-4732-b396-33d456d4ff43",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-03-24T22:22:01.795Z",
+            "homepageId": "42860546",
+            "description": null,
+            "icon": null,
+            "name": "SRE Projects - Group IT",
+            "key": "SREHK",
+            "id": "42860544",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/SREHK"
+            },
+            "currentActiveAlias": "SREHK"
+        },
+        {
+            "spaceOwnerId": "61e7b39908c1f7006a2518fe",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-05-16T18:07:53.405Z",
+            "homepageId": "43024397",
+            "description": null,
+            "icon": null,
+            "name": "Kong API Management Platform",
+            "key": "KAPIM",
+            "id": "43024395",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/KAPIM"
+            },
+            "currentActiveAlias": "KAPIM"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2019-02-01T11:09:30Z",
+            "homepageId": "43188226",
+            "description": null,
+            "icon": null,
+            "name": "Enterprise Architecture",
+            "key": "EA",
+            "id": "43188224",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/EA"
+            },
+            "currentActiveAlias": "EA"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-02-05T20:16:44.598Z",
+            "homepageId": "43319298",
+            "description": null,
+            "icon": null,
+            "name": "Staff Discount - Hong Kong",
+            "key": "SDHK",
+            "id": "43319296",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/SDHK"
+            },
+            "currentActiveAlias": "SDHK"
+        },
+        {
+            "spaceOwnerId": "60b9cf3993e3f500719a485d",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-07-22T18:58:06.068Z",
+            "homepageId": "43450370",
+            "description": null,
+            "icon": null,
+            "name": "Agentic Ignition - GIT Asia",
+            "key": "AI",
+            "id": "43450368",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/AI"
+            },
+            "currentActiveAlias": "AI"
+        },
+        {
+            "spaceOwnerId": "61e7b39908c1f7006a2518fe",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-08-28T22:54:14.491Z",
+            "homepageId": "43581485",
+            "description": null,
+            "icon": null,
+            "name": "Confluent Platform - Group IT",
+            "key": "CGIT",
+            "id": "43581483",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/CGIT"
+            },
+            "currentActiveAlias": "CGIT"
+        },
+        {
+            "spaceOwnerId": "5c879e4b28ed16193ca64438",
+            "authorId": "5c879e4b28ed16193ca64438",
+            "createdAt": "2018-01-17T10:18:01Z",
+            "homepageId": "43745289",
+            "description": null,
+            "icon": null,
+            "name": "Retek",
+            "key": "RET",
+            "id": "43745287",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/RET"
+            },
+            "currentActiveAlias": "RET"
+        },
+        {
+            "spaceOwnerId": "5ca1cf946d462664988e4a0a",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2025-06-12T00:59:05.606Z",
+            "homepageId": "43876354",
+            "description": null,
+            "icon": null,
+            "name": "Enterprise Architecture - Global",
+            "key": "EAGIT",
+            "id": "43876352",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/EAGIT"
+            },
+            "currentActiveAlias": "EAGIT"
+        },
+        {
+            "spaceOwnerId": "61e7b39798cd6100704e28ba",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-03-09T07:30:48Z",
+            "homepageId": "44007426",
+            "description": null,
+            "icon": null,
+            "name": "Store Data Exchange Service - Asia",
+            "key": "SDES",
+            "id": "44007424",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/SDES"
+            },
+            "currentActiveAlias": "SDES"
+        },
+        {
+            "spaceOwnerId": "5d6dd9ba7dfaa80d9053ca35",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2024-10-03T23:44:20.777Z",
+            "homepageId": "44138512",
+            "description": null,
+            "icon": null,
+            "name": "Agile Practice 2.0",
+            "key": "AP2",
+            "id": "44138510",
+            "type": "collaboration",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/AP2"
+            },
+            "currentActiveAlias": "AP2"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-02-18T19:07:40.097Z",
+            "homepageId": "44269570",
+            "description": null,
+            "icon": null,
+            "name": "Retek - Invoice Matching",
+            "key": "RTKIM",
+            "id": "44269568",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/RTKIM"
+            },
+            "currentActiveAlias": "RTKIM"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-03-27T00:34:56.791Z",
+            "homepageId": "44400642",
+            "description": null,
+            "icon": null,
+            "name": "EPrinting - WTCTW",
+            "key": "EPTG",
+            "id": "44400640",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/EPTG"
+            },
+            "currentActiveAlias": "EPTG"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-07-26T02:25:46.543Z",
+            "homepageId": "44531714",
+            "description": null,
+            "icon": null,
+            "name": "Store Notification Service",
+            "key": "SNS",
+            "id": "44531712",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/SNS"
+            },
+            "currentActiveAlias": "SNS"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-05-14T03:33:48Z",
+            "homepageId": "44695554",
+            "description": null,
+            "icon": null,
+            "name": "Retek Problem Management - Global",
+            "key": "RPMG",
+            "id": "44695552",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/RPMG"
+            },
+            "currentActiveAlias": "RPMG"
+        },
+        {
+            "spaceOwnerId": "5d6dd9ba7dfaa80d9053ca35",
+            "authorId": "5d6dd9ba7dfaa80d9053ca35",
+            "createdAt": "2019-11-12T09:06:21Z",
+            "homepageId": "44826634",
+            "description": null,
+            "icon": null,
+            "name": "Agile Practices",
+            "key": "AP",
+            "id": "44826632",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/AP"
+            },
+            "currentActiveAlias": "AP"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2018-10-26T03:40:18Z",
+            "homepageId": "44957698",
+            "description": null,
+            "icon": null,
+            "name": "eProcurement",
+            "key": "EP",
+            "id": "44957696",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/EP"
+            },
+            "currentActiveAlias": "EP"
+        },
+        {
+            "spaceOwnerId": "61e7b3726b1ad90069b75352",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-02-09T19:46:45Z",
+            "homepageId": "45088772",
+            "description": null,
+            "icon": null,
+            "name": "Store & Promotion Technology",
+            "key": "SNPT",
+            "id": "45088770",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/SNPT"
+            },
+            "currentActiveAlias": "SNPT"
+        },
+        {
+            "spaceOwnerId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2025-01-16T01:19:03.421Z",
+            "homepageId": "45219842",
+            "description": null,
+            "icon": null,
+            "name": "Retek Pro*C Batch Conversion",
+            "key": "RTKBCN",
+            "id": "45219840",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/RTKBCN"
+            },
+            "currentActiveAlias": "RTKBCN"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-12-28T20:20:59.488Z",
+            "homepageId": "45350915",
+            "description": null,
+            "icon": null,
+            "name": "AGV - WTCMY",
+            "key": "MYAGV",
+            "id": "45350913",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/MYAGV"
+            },
+            "currentActiveAlias": "MYAGV"
+        },
+        {
+            "spaceOwnerId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2024-10-29T17:52:48.433Z",
+            "homepageId": "45481986",
+            "description": null,
+            "icon": null,
+            "name": "AGV-WTCMY DC1",
+            "key": "MY1AGV",
+            "id": "45481984",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/MY1AGV"
+            },
+            "currentActiveAlias": "MY1AGV"
+        },
+        {
+            "spaceOwnerId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2024-08-01T22:12:51.007Z",
+            "homepageId": "45613058",
+            "description": null,
+            "icon": null,
+            "name": "ePTL Reactivation - WTCTH",
+            "key": "THEPTL",
+            "id": "45613056",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/THEPTL"
+            },
+            "currentActiveAlias": "THEPTL"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-01-25T18:12:48.946Z",
+            "homepageId": "45744130",
+            "description": null,
+            "icon": null,
+            "name": "Retek Server Upgrade - FTRHK",
+            "key": "FTRUPG",
+            "id": "45744128",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/FTRUPG"
+            },
+            "currentActiveAlias": "FTRUPG"
+        },
+        {
+            "spaceOwnerId": "628ccc0f891ea9006a9de250",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2019-12-09T04:13:15Z",
+            "homepageId": "45875209",
+            "description": null,
+            "icon": null,
+            "name": "StoreSystem - Projects",
+            "key": "SP",
+            "id": "45875207",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/SP"
+            },
+            "currentActiveAlias": "SP"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-01-10T03:07:57Z",
+            "homepageId": "46006274",
+            "description": null,
+            "icon": null,
+            "name": "Corporate System - FTRHK",
+            "key": "FCSP",
+            "id": "46006272",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/FCSP"
+            },
+            "currentActiveAlias": "FCSP"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-09-17T02:56:56Z",
+            "homepageId": "46137346",
+            "description": null,
+            "icon": null,
+            "name": "ePTL - WTCTH",
+            "key": "THPL",
+            "id": "46137344",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/THPL"
+            },
+            "currentActiveAlias": "THPL"
+        },
+        {
+            "spaceOwnerId": "61e7b3b2eb1fb60071aa9617",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2025-06-09T17:39:50.438Z",
+            "homepageId": "46268418",
+            "description": null,
+            "icon": null,
+            "name": "RETEK Server Upgrade - Hk Retail",
+            "key": "HKUPG",
+            "id": "46268416",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/HKUPG"
+            },
+            "currentActiveAlias": "HKUPG"
+        },
+        {
+            "spaceOwnerId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2024-08-05T23:00:58.028Z",
+            "homepageId": "46399490",
+            "description": null,
+            "icon": null,
+            "name": "AGV - WTCSG",
+            "key": "SGAGV",
+            "id": "46399488",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/SGAGV"
+            },
+            "currentActiveAlias": "SGAGV"
+        },
+        {
+            "spaceOwnerId": "5d87ed999f69410dca902c98",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-04-16T00:36:32.759Z",
+            "homepageId": "46530562",
+            "description": null,
+            "icon": null,
+            "name": "KPI Automation - Asia & Europe",
+            "key": "MPSKPI",
+            "id": "46530560",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/MPSKPI"
+            },
+            "currentActiveAlias": "MPSKPI"
+        },
+        {
+            "spaceOwnerId": "61e7b3c4b134e8007019a5e3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-07-16T06:32:22Z",
+            "homepageId": "46661634",
+            "description": null,
+            "icon": null,
+            "name": "Store Team Development",
+            "key": "STD",
+            "id": "46661632",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/STD"
+            },
+            "currentActiveAlias": "STD"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-07-16T00:28:41.636Z",
+            "homepageId": "46792706",
+            "description": null,
+            "icon": null,
+            "name": "CR - WTCTW",
+            "key": "WSR",
+            "id": "46792704",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/WSR"
+            },
+            "currentActiveAlias": "WSR"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-06-01T20:07:18.392Z",
+            "homepageId": "46923778",
+            "description": null,
+            "icon": null,
+            "name": "Equipment Tracking Solution - WTCMY",
+            "key": "MYETS",
+            "id": "46923776",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/MYETS"
+            },
+            "currentActiveAlias": "MYETS"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-05-28T23:08:11.976Z",
+            "homepageId": "47054850",
+            "description": null,
+            "icon": null,
+            "name": "AGV - WTCTH",
+            "key": "THAGV",
+            "id": "47054848",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/THAGV"
+            },
+            "currentActiveAlias": "THAGV"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-09-28T02:48:24Z",
+            "homepageId": "47185922",
+            "description": null,
+            "icon": null,
+            "name": "Retek Server Upgrade - WTCMY",
+            "key": "RSUM",
+            "id": "47185920",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/RSUM"
+            },
+            "currentActiveAlias": "RSUM"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-04-21T06:37:11Z",
+            "homepageId": "47316994",
+            "description": null,
+            "icon": null,
+            "name": "Supplier Portal - FTRHK",
+            "key": "SUP",
+            "id": "47316992",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/SUP"
+            },
+            "currentActiveAlias": "SUP"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-04-14T07:11:32Z",
+            "homepageId": "47448066",
+            "description": null,
+            "icon": null,
+            "name": "LBC AfterShip Integration - WTCPH",
+            "key": "PHLB",
+            "id": "47448064",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/PHLB"
+            },
+            "currentActiveAlias": "PHLB"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-09-03T07:27:16Z",
+            "homepageId": "47579138",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Center - Asia",
+            "key": "ASIA",
+            "id": "47579136",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ASIA"
+            },
+            "currentActiveAlias": "ASIA"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-11-29T18:40:33.296Z",
+            "homepageId": "47710211",
+            "description": null,
+            "icon": null,
+            "name": "Equipment Tracking Solution - WTCPH",
+            "key": "PHET",
+            "id": "47710209",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/PHET"
+            },
+            "currentActiveAlias": "PHET"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-07-24T23:30:29.971Z",
+            "homepageId": "47841282",
+            "description": null,
+            "icon": null,
+            "name": "RETEK Server Upgrade - WTCPH",
+            "key": "PHUPG",
+            "id": "47841280",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/PHUPG"
+            },
+            "currentActiveAlias": "PHUPG"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-05-26T23:52:40.157Z",
+            "homepageId": "47972361",
+            "description": null,
+            "icon": null,
+            "name": "AI Marketing Automated System",
+            "key": "AIMAS",
+            "id": "47972359",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/AIMAS"
+            },
+            "currentActiveAlias": "AIMAS"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2019-09-27T03:03:20Z",
+            "homepageId": "48103426",
+            "description": null,
+            "icon": null,
+            "name": "Supplier Portal - WTCTH",
+            "key": "SPTH",
+            "id": "48103424",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/SPTH"
+            },
+            "currentActiveAlias": "SPTH"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-07-23T23:12:31.942Z",
+            "homepageId": "48234498",
+            "description": null,
+            "icon": null,
+            "name": "LOOK CDC - PH",
+            "key": "LOOKPH",
+            "id": "48234496",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/LOOKPH"
+            },
+            "currentActiveAlias": "LOOKPH"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-10-04T03:54:15Z",
+            "homepageId": "48365570",
+            "description": null,
+            "icon": null,
+            "name": "Equipment Tracking - WTCTH",
+            "key": "THET",
+            "id": "48365568",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/THET"
+            },
+            "currentActiveAlias": "THET"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-09-30T06:52:57Z",
+            "homepageId": "48496642",
+            "description": null,
+            "icon": null,
+            "name": "RETEK Server Upgrade - WTCSG",
+            "key": "SGUP",
+            "id": "48496640",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/SGUP"
+            },
+            "currentActiveAlias": "SGUP"
+        },
+        {
+            "spaceOwnerId": "712020:f4cdb047-5609-4b56-8f75-5b1daa7b7041",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-04-22T08:05:10Z",
+            "homepageId": "48627714",
+            "description": null,
+            "icon": null,
+            "name": "Support System Enhancement - Asia",
+            "key": "SSE",
+            "id": "48627712",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/SSE"
+            },
+            "currentActiveAlias": "SSE"
+        },
+        {
+            "spaceOwnerId": "5a9880760cd7762a736149d0",
+            "authorId": "5a9880760cd7762a736149d0",
+            "createdAt": "2018-01-25T03:53:38Z",
+            "homepageId": "48758786",
+            "description": null,
+            "icon": null,
+            "name": "Macro Space Optimizer",
+            "key": "MSO",
+            "id": "48758784",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/MSO"
+            },
+            "currentActiveAlias": "MSO"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-01-10T02:35:18Z",
+            "homepageId": "48889879",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Center (CDC)",
+            "key": "CSC",
+            "id": "48889877",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/CSC"
+            },
+            "currentActiveAlias": "CSC"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-10-16T00:11:38.705Z",
+            "homepageId": "49119234",
+            "description": null,
+            "icon": null,
+            "name": "AI Marketing Automated System - MBHK",
+            "key": "AIMASHK",
+            "id": "49119232",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/AIMASHK"
+            },
+            "currentActiveAlias": "AIMASHK"
+        },
+        {
+            "spaceOwnerId": "5d9fd449a883740dc766e8af",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-03-14T03:57:29Z",
+            "homepageId": "49250306",
+            "description": null,
+            "icon": null,
+            "name": "Event Driven Platform",
+            "key": "EDP",
+            "id": "49250304",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/EDP"
+            },
+            "currentActiveAlias": "EDP"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-01-10T00:26:15.104Z",
+            "homepageId": "49381378",
+            "description": null,
+            "icon": null,
+            "name": "RETEK Server Upgrade - WWCN",
+            "key": "WWCUPG",
+            "id": "49381376",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/WWCUPG"
+            },
+            "currentActiveAlias": "WWCUPG"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-09-05T00:31:22.289Z",
+            "homepageId": "49512451",
+            "description": null,
+            "icon": null,
+            "name": "Taiwan Store Team Projects",
+            "key": "TWST",
+            "id": "49512449",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/TWST"
+            },
+            "currentActiveAlias": "TWST"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-06-23T08:44:59Z",
+            "homepageId": "49643522",
+            "description": null,
+            "icon": null,
+            "name": "M-commerce - PNSMC",
+            "key": "MCOM",
+            "id": "49643520",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/MCOM"
+            },
+            "currentActiveAlias": "MCOM"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-05-20T18:54:44.732Z",
+            "homepageId": "49774594",
+            "description": null,
+            "icon": null,
+            "name": "AI Marketing Automated System - WTCMY",
+            "key": "AIMASMY",
+            "id": "49774592",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/AIMASMY"
+            },
+            "currentActiveAlias": "AIMASMY"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-07-15T09:22:18Z",
+            "homepageId": "49905666",
+            "description": null,
+            "icon": null,
+            "name": "eVoucher",
+            "key": "AEV",
+            "id": "49905664",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/AEV"
+            },
+            "currentActiveAlias": "AEV"
+        },
+        {
+            "spaceOwnerId": "5e68b7c97d64450d01a780d0",
+            "authorId": "5e68b7c97d64450d01a780d0",
+            "createdAt": "2024-10-03T00:53:24.365Z",
+            "homepageId": null,
+            "description": null,
+            "icon": null,
+            "name": "tammy.fan",
+            "key": "~5e68b7c97d64450d01a780d0",
+            "id": "50036736",
+            "type": "personal",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/~5e68b7c97d64450d01a780d0"
+            },
+            "currentActiveAlias": "~5e68b7c97d64450d01a780d0"
+        },
+        {
+            "spaceOwnerId": "61e7b3fde2261a00693412f3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2019-03-18T02:39:56Z",
+            "homepageId": "50167833",
+            "description": null,
+            "icon": null,
+            "name": "Retek Support Base",
+            "key": "RSB",
+            "id": "50167831",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/RSB"
+            },
+            "currentActiveAlias": "RSB"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2024-10-16T01:05:44.142Z",
+            "homepageId": "50298882",
+            "description": null,
+            "icon": null,
+            "name": "AI Marketing Automated System - WTCSG",
+            "key": "AIMASSG",
+            "id": "50298880",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/AIMASSG"
+            },
+            "currentActiveAlias": "AIMASSG"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-07-19T18:57:25.064Z",
+            "homepageId": "50528262",
+            "description": null,
+            "icon": null,
+            "name": "Media Platform (MP)",
+            "key": "ASWMP",
+            "id": "50528260",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ASWMP"
+            },
+            "currentActiveAlias": "ASWMP"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-10-08T17:52:16.642Z",
+            "homepageId": "50692099",
+            "description": null,
+            "icon": null,
+            "name": "Facial Recognition - PNSHK",
+            "key": "FACIAL",
+            "id": "50692097",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/FACIAL"
+            },
+            "currentActiveAlias": "FACIAL"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-11-01T20:20:55.707Z",
+            "homepageId": "50855938",
+            "description": null,
+            "icon": null,
+            "name": "Team Improvement POC - GIT",
+            "key": "TIP",
+            "id": "50855936",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/TIP"
+            },
+            "currentActiveAlias": "TIP"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-10-20T23:36:05.449Z",
+            "homepageId": "50987010",
+            "description": null,
+            "icon": null,
+            "name": "Return PTL - WTCMY",
+            "key": "MYRPTL",
+            "id": "50987008",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/MYRPTL"
+            },
+            "currentActiveAlias": "MYRPTL"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2024-10-16T00:15:04.802Z",
+            "homepageId": "51118082",
+            "description": null,
+            "icon": null,
+            "name": "AI Marketing Automated System - WTCTW",
+            "key": "AIMASTW",
+            "id": "51118080",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/AIMASTW"
+            },
+            "currentActiveAlias": "AIMASTW"
+        },
+        {
+            "spaceOwnerId": "61e7b375f0ed04006884d0c5",
+            "authorId": "61e7b375f0ed04006884d0c5",
+            "createdAt": "2018-09-08T08:59:30Z",
+            "homepageId": "51249156",
+            "description": null,
+            "icon": null,
+            "name": "Merchandise Retek",
+            "key": "MR",
+            "id": "51249154",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/MR"
+            },
+            "currentActiveAlias": "MR"
+        },
+        {
+            "spaceOwnerId": "557058:3a7bc499-81ef-4be6-b313-fa76bb0f8baa",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-07-13T19:57:37.299Z",
+            "homepageId": "51412994",
+            "description": null,
+            "icon": null,
+            "name": "FASE - FTRHK",
+            "key": "FTRFASE",
+            "id": "51412992",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/FTRFASE"
+            },
+            "currentActiveAlias": "FTRFASE"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-11-25T02:38:45Z",
+            "homepageId": "51544066",
+            "description": null,
+            "icon": null,
+            "name": "Tech Architecture Board",
+            "key": "TAB",
+            "id": "51544064",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/TAB"
+            },
+            "currentActiveAlias": "TAB"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-04-08T07:10:09Z",
+            "homepageId": "51675138",
+            "description": null,
+            "icon": null,
+            "name": "Android RF - WTCID",
+            "key": "IDAA",
+            "id": "51675136",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/IDAA"
+            },
+            "currentActiveAlias": "IDAA"
+        },
+        {
+            "spaceOwnerId": "637d846d2acfad92d7b0fcf5",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-09-02T18:52:33.059Z",
+            "homepageId": "51806210",
+            "description": null,
+            "icon": null,
+            "name": "Return PTL - WTCPH",
+            "key": "PHRPTL",
+            "id": "51806208",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/PHRPTL"
+            },
+            "currentActiveAlias": "PHRPTL"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-05-30T07:28:40Z",
+            "homepageId": "51937282",
+            "description": null,
+            "icon": null,
+            "name": "MessageBox",
+            "key": "MBOX",
+            "id": "51937280",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/MBOX"
+            },
+            "currentActiveAlias": "MBOX"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-11-25T08:53:13Z",
+            "homepageId": "52068362",
+            "description": null,
+            "icon": null,
+            "name": "Fortress KB",
+            "key": "FTRKB",
+            "id": "52068360",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/FTRKB"
+            },
+            "currentActiveAlias": "FTRKB"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-10-30T09:21:42Z",
+            "homepageId": "52330506",
+            "description": null,
+            "icon": null,
+            "name": "TECHLab Automation Testing Platform",
+            "key": "TATP",
+            "id": "52330504",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/TATP"
+            },
+            "currentActiveAlias": "TATP"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-08-26T07:29:21Z",
+            "homepageId": "52461570",
+            "description": null,
+            "icon": null,
+            "name": "Android RF - WTCMY",
+            "key": "MYAA",
+            "id": "52461568",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/MYAA"
+            },
+            "currentActiveAlias": "MYAA"
+        },
+        {
+            "spaceOwnerId": "61e7b3a938041c00685b0a58",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-01-07T08:23:48Z",
+            "homepageId": "52592643",
+            "description": null,
+            "icon": null,
+            "name": "RPA – Asia (CoE 2020)",
+            "key": "RAC2",
+            "id": "52592641",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/RAC2"
+            },
+            "currentActiveAlias": "RAC2"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-03-17T03:22:42Z",
+            "homepageId": "52723722",
+            "description": null,
+            "icon": null,
+            "name": "Microservices and DevOps platform",
+            "key": "MDP",
+            "id": "52723720",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/MDP"
+            },
+            "currentActiveAlias": "MDP"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-01-05T23:08:13.534Z",
+            "homepageId": "52854786",
+            "description": null,
+            "icon": null,
+            "name": "Android RF - WTCTH",
+            "key": "THAA",
+            "id": "52854784",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/THAA"
+            },
+            "currentActiveAlias": "THAA"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-07-03T08:19:56Z",
+            "homepageId": "52985858",
+            "description": null,
+            "icon": null,
+            "name": "Franchise System",
+            "key": "FRCH",
+            "id": "52985856",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/FRCH"
+            },
+            "currentActiveAlias": "FRCH"
+        },
+        {
+            "spaceOwnerId": "5dbfdb2268420c0dec1e1429",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-05-04T00:18:17.956Z",
+            "homepageId": "53116932",
+            "description": null,
+            "icon": null,
+            "name": "TECHLab Microservice Support Document",
+            "key": "TMSD",
+            "id": "53116930",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/TMSD"
+            },
+            "currentActiveAlias": "TMSD"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-08-07T09:49:55Z",
+            "homepageId": "53248002",
+            "description": null,
+            "icon": null,
+            "name": "A&P and OSD Portal - ASIA",
+            "key": "ANOP",
+            "id": "53248000",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/ANOP"
+            },
+            "currentActiveAlias": "ANOP"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-09-26T23:13:43.026Z",
+            "homepageId": "53379074",
+            "description": null,
+            "icon": null,
+            "name": "Next Day delivery - WTCTH",
+            "key": "NDTH",
+            "id": "53379072",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/NDTH"
+            },
+            "currentActiveAlias": "NDTH"
+        },
+        {
+            "spaceOwnerId": "5def3f3fbda2c70e4a022d02",
+            "authorId": "61e7b3ea98cd6100704e2c27",
+            "createdAt": "2020-04-20T10:06:20Z",
+            "homepageId": "53510146",
+            "description": null,
+            "icon": null,
+            "name": "FTR Corporate Systems",
+            "key": "FCS",
+            "id": "53510144",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/FCS"
+            },
+            "currentActiveAlias": "FCS"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-01-31T07:26:43Z",
+            "homepageId": "53641222",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Center - EU",
+            "key": "CDCEU",
+            "id": "53641220",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/CDCEU"
+            },
+            "currentActiveAlias": "CDCEU"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-07-08T08:02:44Z",
+            "homepageId": "53772290",
+            "description": null,
+            "icon": null,
+            "name": "TECHLab - O+O Shopping Cart",
+            "key": "OOSC",
+            "id": "53772288",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/OOSC"
+            },
+            "currentActiveAlias": "OOSC"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-04-21T06:43:24Z",
+            "homepageId": "54034434",
+            "description": null,
+            "icon": null,
+            "name": "Offer Portal - FTRHK",
+            "key": "OFP",
+            "id": "54034432",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/OFP"
+            },
+            "currentActiveAlias": "OFP"
+        },
+        {
+            "spaceOwnerId": "5df844fffc90030cadf08f91",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-07-27T19:11:16.011Z",
+            "homepageId": "54165506",
+            "description": null,
+            "icon": null,
+            "name": "GIT Migration Project - WTCVN",
+            "key": "GITVN",
+            "id": "54165504",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/GITVN"
+            },
+            "currentActiveAlias": "GITVN"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-05-05T09:29:57Z",
+            "homepageId": "54296578",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Center - WTCID",
+            "key": "CDCID",
+            "id": "54296576",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/CDCID"
+            },
+            "currentActiveAlias": "CDCID"
+        },
+        {
+            "spaceOwnerId": "5d4ab0302c0fea0d07ca0c84",
+            "authorId": "5d4ab0302c0fea0d07ca0c84",
+            "createdAt": "2019-11-12T06:19:24Z",
+            "homepageId": "54427650",
+            "description": null,
+            "icon": null,
+            "name": "TECHLAB Team WIKI",
+            "key": "TTW",
+            "id": "54427648",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/TTW"
+            },
+            "currentActiveAlias": "TTW"
+        },
+        {
+            "spaceOwnerId": "61e7b3fa78cb690071520b2e",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-03-13T01:23:43.995Z",
+            "homepageId": "54558723",
+            "description": null,
+            "icon": null,
+            "name": "Asset Tracking Solution - Superdrug",
+            "key": "ATSS",
+            "id": "54558721",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ATSS"
+            },
+            "currentActiveAlias": "ATSS"
+        },
+        {
+            "spaceOwnerId": "5d9fd449a883740dc766e8af",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-11-22T20:21:52.375Z",
+            "homepageId": "55246850",
+            "description": null,
+            "icon": null,
+            "name": "API Developer Portal",
+            "key": "ADP",
+            "id": "55246848",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ADP"
+            },
+            "currentActiveAlias": "ADP"
+        },
+        {
+            "spaceOwnerId": "5d248fefafbc2a0c25110033",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-01-30T18:34:20.765Z",
+            "homepageId": "56721411",
+            "description": null,
+            "icon": null,
+            "name": "OneArchitect - ASW",
+            "key": "ONEA",
+            "id": "56721409",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ONEA"
+            },
+            "currentActiveAlias": "ONEA"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-05-05T07:20:29Z",
+            "homepageId": "56852482",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Center - WTCMY",
+            "key": "CDCMY",
+            "id": "56852480",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/CDCMY"
+            },
+            "currentActiveAlias": "CDCMY"
+        },
+        {
+            "spaceOwnerId": "628dca9df2261e00682a3281",
+            "authorId": "628dca9df2261e00682a3281",
+            "createdAt": "2018-04-19T03:13:50Z",
+            "homepageId": "56983555",
+            "description": null,
+            "icon": null,
+            "name": "GIT Network",
+            "key": "GN",
+            "id": "56983553",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/GN"
+            },
+            "currentActiveAlias": "GN"
+        },
+        {
+            "spaceOwnerId": "61e7b3b87ae0dc006aa444d5",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2025-01-08T17:50:13.222Z",
+            "homepageId": "57114626",
+            "description": null,
+            "icon": null,
+            "name": "Technical Document - GIT Network",
+            "key": "GITNET",
+            "id": "57114624",
+            "type": "knowledge_base",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/GITNET"
+            },
+            "currentActiveAlias": "GITNET"
+        },
+        {
+            "spaceOwnerId": "61e7b375f0ed04006884d0c5",
+            "authorId": "61e7b375f0ed04006884d0c5",
+            "createdAt": "2017-05-26T03:07:20Z",
+            "homepageId": "57245735",
+            "description": null,
+            "icon": null,
+            "name": "A.S Watson",
+            "key": "WAT",
+            "id": "57245733",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/WAT"
+            },
+            "currentActiveAlias": "WAT"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-08-18T01:27:17.059Z",
+            "homepageId": "57376770",
+            "description": null,
+            "icon": null,
+            "name": "ONEPASS - All",
+            "key": "ONEPAS",
+            "id": "57376768",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ONEPAS"
+            },
+            "currentActiveAlias": "ONEPAS"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-04-23T08:37:17Z",
+            "homepageId": "57507842",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Center - WTCPH",
+            "key": "CDC",
+            "id": "57507840",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/CDC"
+            },
+            "currentActiveAlias": "CDC"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-02-21T06:25:18Z",
+            "homepageId": "57638914",
+            "description": null,
+            "icon": null,
+            "name": "Group People",
+            "key": "GHR",
+            "id": "57638912",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/GHR"
+            },
+            "currentActiveAlias": "GHR"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-07-16T08:21:50Z",
+            "homepageId": "57769986",
+            "description": null,
+            "icon": null,
+            "name": "Tlog Processor - Asia",
+            "key": "TLOG",
+            "id": "57769984",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/TLOG"
+            },
+            "currentActiveAlias": "TLOG"
+        },
+        {
+            "spaceOwnerId": "5d87ed999f69410dca902c98",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-04-18T18:18:39.963Z",
+            "homepageId": "57901059",
+            "description": null,
+            "icon": null,
+            "name": "ASW Cloud Financials",
+            "key": "ACF",
+            "id": "57901057",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ACF"
+            },
+            "currentActiveAlias": "ACF"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-05-10T19:51:32.088Z",
+            "homepageId": "58064901",
+            "description": null,
+            "icon": null,
+            "name": "Online Services",
+            "key": "OLS",
+            "id": "58064899",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/OLS"
+            },
+            "currentActiveAlias": "OLS"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-05-10T02:39:15Z",
+            "homepageId": "58228738",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Center - WTCSG",
+            "key": "CDCSG",
+            "id": "58228736",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/CDCSG"
+            },
+            "currentActiveAlias": "CDCSG"
+        },
+        {
+            "spaceOwnerId": "628dca348026a10068b17d98",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-05-15T00:23:21.397Z",
+            "homepageId": "58359810",
+            "description": null,
+            "icon": null,
+            "name": "TMS - FTRHK",
+            "key": "FTRTMS",
+            "id": "58359808",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/FTRTMS"
+            },
+            "currentActiveAlias": "FTRTMS"
+        },
+        {
+            "spaceOwnerId": "5e97f864272c6a0c0e826e07",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-06-19T19:12:39.011Z",
+            "homepageId": "58490884",
+            "description": null,
+            "icon": null,
+            "name": "Group Supplier Portal",
+            "key": "GSP",
+            "id": "58490882",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/GSP"
+            },
+            "currentActiveAlias": "GSP"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2019-11-20T07:14:47Z",
+            "homepageId": "58621954",
+            "description": null,
+            "icon": null,
+            "name": "ASWG - Budget Planning Tools",
+            "key": "ABPT",
+            "id": "58621952",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/ABPT"
+            },
+            "currentActiveAlias": "ABPT"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-05-12T06:41:11Z",
+            "homepageId": "58753026",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Center - WTCTH",
+            "key": "CDCTH",
+            "id": "58753024",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/CDCTH"
+            },
+            "currentActiveAlias": "CDCTH"
+        },
+        {
+            "spaceOwnerId": "5e97f864272c6a0c0e826e07",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-11-27T03:59:30Z",
+            "homepageId": "58884098",
+            "description": null,
+            "icon": null,
+            "name": "Group Supplier Portal - WTCMY",
+            "key": "ASPWM",
+            "id": "58884096",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/ASPWM"
+            },
+            "currentActiveAlias": "ASPWM"
+        },
+        {
+            "spaceOwnerId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2025-05-19T18:31:38.518Z",
+            "homepageId": "59015170",
+            "description": null,
+            "icon": null,
+            "name": "TMS - WTCHK",
+            "key": "WTCTMS",
+            "id": "59015168",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/WTCTMS"
+            },
+            "currentActiveAlias": "WTCTMS"
+        },
+        {
+            "spaceOwnerId": "61e7b375f0ed04006884d0c5",
+            "authorId": "61e7b375f0ed04006884d0c5",
+            "createdAt": "2017-09-21T03:08:13Z",
+            "homepageId": "59146246",
+            "description": null,
+            "icon": null,
+            "name": "ASWG- CSOD Learning - HK",
+            "key": "HRT",
+            "id": "59146244",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/HRT"
+            },
+            "currentActiveAlias": "HRT"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-05-13T07:11:59Z",
+            "homepageId": "59277314",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Center - WTCTW",
+            "key": "CDCTW",
+            "id": "59277312",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/CDCTW"
+            },
+            "currentActiveAlias": "CDCTW"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-09-09T09:18:49Z",
+            "homepageId": "59408386",
+            "description": null,
+            "icon": null,
+            "name": "TNA2.0 - WTCMY",
+            "key": "TNA",
+            "id": "59408384",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/TNA"
+            },
+            "currentActiveAlias": "TNA"
+        },
+        {
+            "spaceOwnerId": "5e97f864272c6a0c0e826e07",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-11-14T23:50:45.973Z",
+            "homepageId": "59539458",
+            "description": null,
+            "icon": null,
+            "name": "Group Supplier Portal - WTCWI",
+            "key": "ASPWW",
+            "id": "59539456",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/ASPWW"
+            },
+            "currentActiveAlias": "ASPWW"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-10-09T22:09:03.801Z",
+            "homepageId": "59670530",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Center - WTCVN",
+            "key": "CDCVN",
+            "id": "59670528",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/CDCVN"
+            },
+            "currentActiveAlias": "CDCVN"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-11-05T03:52:29Z",
+            "homepageId": "59801604",
+            "description": null,
+            "icon": null,
+            "name": "ASWG - Cyber Security Operations",
+            "key": "SOC",
+            "id": "59801602",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/SOC"
+            },
+            "currentActiveAlias": "SOC"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-09-04T20:03:46.449Z",
+            "homepageId": "59932677",
+            "description": null,
+            "icon": null,
+            "name": "Onstore - WTCCN",
+            "key": "ONSCN",
+            "id": "59932675",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ONSCN"
+            },
+            "currentActiveAlias": "ONSCN"
+        },
+        {
+            "spaceOwnerId": "557058:75c31aab-4962-48f3-9fd6-44264b0df48a",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-07-25T00:02:31.931Z",
+            "homepageId": "60063746",
+            "description": null,
+            "icon": null,
+            "name": "GSC Confluence",
+            "key": "GSC2025",
+            "id": "60063744",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/GSC2025"
+            },
+            "currentActiveAlias": "GSC2025"
+        },
+        {
+            "spaceOwnerId": "5ee885a2a6a7110ab55cc537",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2025-01-26T18:10:13.978Z",
+            "homepageId": "60194818",
+            "description": null,
+            "icon": null,
+            "name": "TOP - WTCHK",
+            "key": "TOP",
+            "id": "60194816",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/TOP"
+            },
+            "currentActiveAlias": "TOP"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-08-23T01:11:38.854Z",
+            "homepageId": "60325890",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Center - WWHK",
+            "key": "CDCWW",
+            "id": "60325888",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/CDCWW"
+            },
+            "currentActiveAlias": "CDCWW"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-11-29T02:53:49Z",
+            "homepageId": "60456962",
+            "description": null,
+            "icon": null,
+            "name": "ASWG - DC 2 - WTCMY",
+            "key": "MYDC",
+            "id": "60456960",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/MYDC"
+            },
+            "currentActiveAlias": "MYDC"
+        },
+        {
+            "spaceOwnerId": "61e7b3e45fcc37006872800f",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-03-23T23:36:34.089Z",
+            "homepageId": "60588035",
+            "description": null,
+            "icon": null,
+            "name": "O+O POS Log Message System",
+            "key": "OPOMS",
+            "id": "60588033",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/OPOMS"
+            },
+            "currentActiveAlias": "OPOMS"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-07-19T01:12:21.746Z",
+            "homepageId": "60719106",
+            "description": null,
+            "icon": null,
+            "name": "GTM - WTCHK",
+            "key": "HKG",
+            "id": "60719104",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/HKG"
+            },
+            "currentActiveAlias": "HKG"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-05-08T06:35:02Z",
+            "homepageId": "60850178",
+            "description": null,
+            "icon": null,
+            "name": "ASWG - eReceipt",
+            "key": "AER",
+            "id": "60850176",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/AER"
+            },
+            "currentActiveAlias": "AER"
+        },
+        {
+            "spaceOwnerId": "61e7b3bb98cd6100704e2a78",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-11-23T19:01:38.529Z",
+            "homepageId": "60981255",
+            "description": null,
+            "icon": null,
+            "name": "Customer data platform",
+            "key": "CDP",
+            "id": "60981253",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/CDP"
+            },
+            "currentActiveAlias": "CDP"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-02-18T20:21:41.819Z",
+            "homepageId": "61112322",
+            "description": null,
+            "icon": null,
+            "name": "TTA - ASIA",
+            "key": "TTAASIA",
+            "id": "61112320",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/TTAASIA"
+            },
+            "currentActiveAlias": "TTAASIA"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-08-25T09:56:27Z",
+            "homepageId": "61243394",
+            "description": null,
+            "icon": null,
+            "name": "GTM - WTCMY",
+            "key": "MGTM",
+            "id": "61243392",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/MGTM"
+            },
+            "currentActiveAlias": "MGTM"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-10-08T20:09:27.835Z",
+            "homepageId": "61374466",
+            "description": null,
+            "icon": null,
+            "name": "Open API Portal - Group IT",
+            "key": "OAPGIT",
+            "id": "61374464",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/OAPGIT"
+            },
+            "currentActiveAlias": "OAPGIT"
+        },
+        {
+            "spaceOwnerId": "5e97f864272c6a0c0e826e07",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2025-05-06T01:38:36.377Z",
+            "homepageId": "61505538",
+            "description": null,
+            "icon": null,
+            "name": "TTA Cloud - Asia",
+            "key": "TTAC",
+            "id": "61505536",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/TTAC"
+            },
+            "currentActiveAlias": "TTAC"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-10-10T18:50:17.758Z",
+            "homepageId": "61636610",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Platform - Asia",
+            "key": "CDPASIA",
+            "id": "61636608",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/CDPASIA"
+            },
+            "currentActiveAlias": "CDPASIA"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2019-12-04T09:59:17Z",
+            "homepageId": "61767682",
+            "description": null,
+            "icon": null,
+            "name": "ASWG - Fortress Retek RMS v10 upgrade 2.0 - FTRHK",
+            "key": "AFRRVUF2",
+            "id": "61767680",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/AFRRVUF2"
+            },
+            "currentActiveAlias": "AFRRVUF2"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-12-01T19:15:38.601Z",
+            "homepageId": "61898754",
+            "description": null,
+            "icon": null,
+            "name": "Oracle Cloud ERP Project",
+            "key": "ORCL",
+            "id": "61898752",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ORCL"
+            },
+            "currentActiveAlias": "ORCL"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-08-25T08:58:20Z",
+            "homepageId": "62029826",
+            "description": null,
+            "icon": null,
+            "name": "GTM - WTCSG",
+            "key": "SGTM",
+            "id": "62029824",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/SGTM"
+            },
+            "currentActiveAlias": "SGTM"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-07-02T00:51:19.684Z",
+            "homepageId": "62160898",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Platform - WTCID",
+            "key": "CDPID",
+            "id": "62160896",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/CDPID"
+            },
+            "currentActiveAlias": "CDPID"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-10-07T04:07:37Z",
+            "homepageId": "62291970",
+            "description": null,
+            "icon": null,
+            "name": "T&T Portal - IB",
+            "key": "IBTT",
+            "id": "62291968",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/IBTT"
+            },
+            "currentActiveAlias": "IBTT"
+        },
+        {
+            "spaceOwnerId": "5def3f3fbda2c70e4a022d02",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2019-12-03T06:24:07Z",
+            "homepageId": "62423042",
+            "description": null,
+            "icon": null,
+            "name": "ASWG - Fortress Supply Chain Solution",
+            "key": "AFSCS",
+            "id": "62423040",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/AFSCS"
+            },
+            "currentActiveAlias": "AFSCS"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-07-02T01:38:50.751Z",
+            "homepageId": "62554114",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Platform - WTCMY",
+            "key": "CDPMY",
+            "id": "62554112",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/CDPMY"
+            },
+            "currentActiveAlias": "CDPMY"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-09-21T01:54:28Z",
+            "homepageId": "62685186",
+            "description": null,
+            "icon": null,
+            "name": "GTM - WTCUA",
+            "key": "UGTM",
+            "id": "62685184",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/UGTM"
+            },
+            "currentActiveAlias": "UGTM"
+        },
+        {
+            "spaceOwnerId": "5d9fd449a883740dc766e8af",
+            "authorId": "5d9fd449a883740dc766e8af",
+            "createdAt": "2020-10-05T07:36:27Z",
+            "homepageId": "62816258",
+            "description": null,
+            "icon": null,
+            "name": "Oracle Data Integrator (ODI)",
+            "key": "ODI",
+            "id": "62816256",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ODI"
+            },
+            "currentActiveAlias": "ODI"
+        },
+        {
+            "spaceOwnerId": "61e7b3fde2261a00693412f3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-07-21T20:13:00.432Z",
+            "homepageId": "62947330",
+            "description": null,
+            "icon": null,
+            "name": "Vietnam Retek implementation",
+            "key": "VTNRTK",
+            "id": "62947328",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/VTNRTK"
+            },
+            "currentActiveAlias": "VTNRTK"
+        },
+        {
+            "spaceOwnerId": "628ccc0cd5ec4f0069e7f4e1",
+            "authorId": "628ccc0cd5ec4f0069e7f4e1",
+            "createdAt": "2020-11-13T02:29:06Z",
+            "homepageId": "63078430",
+            "description": null,
+            "icon": null,
+            "name": "ASW GIT WINS Support",
+            "key": "WINSSupport",
+            "id": "63078428",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/WINSSupport"
+            },
+            "currentActiveAlias": "WINSSupport"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-12-13T01:14:44.528Z",
+            "homepageId": "63209474",
+            "description": null,
+            "icon": null,
+            "name": "Hamper - PNSHK",
+            "key": "HAMP",
+            "id": "63209472",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/HAMP"
+            },
+            "currentActiveAlias": "HAMP"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-11-02T19:11:46.859Z",
+            "homepageId": "63340546",
+            "description": null,
+            "icon": null,
+            "name": "Oracle HCM - Group People",
+            "key": "OHCMGP",
+            "id": "63340544",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/OHCMGP"
+            },
+            "currentActiveAlias": "OHCMGP"
+        },
+        {
+            "spaceOwnerId": "623933178d8b9c0068b74223",
+            "authorId": "623933178d8b9c0068b74223",
+            "createdAt": "2022-04-04T02:54:07Z",
+            "homepageId": "63471618",
+            "description": null,
+            "icon": null,
+            "name": "Vince Wong (ASWG - Contract Development Lead, GIT Asia)",
+            "key": "~Vince.Wong",
+            "id": "63471616",
+            "type": "personal",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/~Vince.Wong.Wong"
+            },
+            "currentActiveAlias": "~Vince.Wong"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-07-01T19:52:19.424Z",
+            "homepageId": "63602690",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Platform - WTCPH",
+            "key": "CDPPH",
+            "id": "63602688",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/CDPPH"
+            },
+            "currentActiveAlias": "CDPPH"
+        },
+        {
+            "spaceOwnerId": "5c879e4b28ed16193ca64438",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-03-09T03:15:05Z",
+            "homepageId": "63733764",
+            "description": null,
+            "icon": null,
+            "name": "ASWG - MDM Microservices",
+            "key": "MDMM",
+            "id": "63733762",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/MDMM"
+            },
+            "currentActiveAlias": "MDMM"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-01-15T18:53:40.686Z",
+            "homepageId": "63864834",
+            "description": null,
+            "icon": null,
+            "name": "Wang Noi Standalone eDC",
+            "key": "THWE",
+            "id": "63864832",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/THWE"
+            },
+            "currentActiveAlias": "THWE"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-06-01T00:08:50.087Z",
+            "homepageId": "63995906",
+            "description": null,
+            "icon": null,
+            "name": "Oracle Sourcing - GIT",
+            "key": "ITSSOS",
+            "id": "63995904",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/ITSSOS"
+            },
+            "currentActiveAlias": "ITSSOS"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-08-09T01:07:13.219Z",
+            "homepageId": "64126978",
+            "description": null,
+            "icon": null,
+            "name": "HDS AfterShip and Postmen integration with Ninja Express - WTCTH",
+            "key": "THNE",
+            "id": "64126976",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/THNE"
+            },
+            "currentActiveAlias": "THNE"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-07-02T22:49:56.741Z",
+            "homepageId": "64258050",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Platform - WTCSG",
+            "key": "CDPSG",
+            "id": "64258048",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/CDPSG"
+            },
+            "currentActiveAlias": "CDPSG"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-05-19T19:24:44.165Z",
+            "homepageId": "64389124",
+            "description": null,
+            "icon": null,
+            "name": "ASWG - PNP2.0",
+            "key": "GITPNP",
+            "id": "64389122",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/GITPNP"
+            },
+            "currentActiveAlias": "GITPNP"
+        },
+        {
+            "spaceOwnerId": "628dca348026a10068b17d98",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-08-25T00:30:14.099Z",
+            "homepageId": "64520194",
+            "description": null,
+            "icon": null,
+            "name": "Warehouse Automation - FTRHK",
+            "key": "AFWA",
+            "id": "64520192",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/AFWA"
+            },
+            "currentActiveAlias": "AFWA"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-05-30T00:08:45.452Z",
+            "homepageId": "64651266",
+            "description": null,
+            "icon": null,
+            "name": "Oracle Sourcing PROD - GIT",
+            "key": "OSPRO",
+            "id": "64651264",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/OSPRO"
+            },
+            "currentActiveAlias": "OSPRO"
+        },
+        {
+            "spaceOwnerId": "62eb417aa41ecbd0ba180c45",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-09-21T18:36:57.332Z",
+            "homepageId": "64782338",
+            "description": null,
+            "icon": null,
+            "name": "HDS - Techlab",
+            "key": "HDS",
+            "id": "64782336",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/HDS"
+            },
+            "currentActiveAlias": "HDS"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-07-03T23:36:52.881Z",
+            "homepageId": "64913410",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Platform - WTCTH",
+            "key": "CDPTH",
+            "id": "64913408",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/CDPTH"
+            },
+            "currentActiveAlias": "CDPTH"
+        },
+        {
+            "spaceOwnerId": "5dbfdb2268420c0dec1e1429",
+            "authorId": "61e7b39908c1f7006a2518fe",
+            "createdAt": "2019-09-26T10:00:29Z",
+            "homepageId": "65044487",
+            "description": null,
+            "icon": null,
+            "name": "ASW Microservices Platform",
+            "key": "ASWMSP",
+            "id": "65044485",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ASWMSP"
+            },
+            "currentActiveAlias": "ASWMSP"
+        },
+        {
+            "spaceOwnerId": "61e7b3b838041c00685b0b6b",
+            "authorId": "61e7b3b838041c00685b0b6b",
+            "createdAt": "2021-03-09T03:33:38Z",
+            "homepageId": "65175554",
+            "description": null,
+            "icon": null,
+            "name": "He Liu 刘鹤  (ASWG - Analysis Programmer - GIT TECHLab, China)",
+            "key": "~He.liu",
+            "id": "65175552",
+            "type": "personal",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/~He.liu.liu"
+            },
+            "currentActiveAlias": "~He.liu"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-07-04T18:04:35.145Z",
+            "homepageId": "65306626",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Platform - WTCTW",
+            "key": "CDPTW",
+            "id": "65306624",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/CDPTW"
+            },
+            "currentActiveAlias": "CDPTW"
+        },
+        {
+            "spaceOwnerId": "61e7b3ae38041c00685b0aee",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-09-11T18:07:01.991Z",
+            "homepageId": "65437699",
+            "description": null,
+            "icon": null,
+            "name": "Watson Online Services - GIT",
+            "key": "WOLS",
+            "id": "65437697",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/WOLS"
+            },
+            "currentActiveAlias": "WOLS"
+        },
+        {
+            "spaceOwnerId": "60ebe4a3f664300069b5a69c",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2025-04-01T20:11:28.615Z",
+            "homepageId": "65568770",
+            "description": null,
+            "icon": null,
+            "name": "Backstage API marketplace - Group IT",
+            "key": "BSAM",
+            "id": "65568768",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/BSAM"
+            },
+            "currentActiveAlias": "BSAM"
+        },
+        {
+            "spaceOwnerId": "5d87ed999f69410dca902c98",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-07-09T20:24:49.652Z",
+            "homepageId": "65699842",
+            "description": null,
+            "icon": null,
+            "name": "Hyperion To EPM Migration - GIT",
+            "key": "H2EPM",
+            "id": "65699840",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/H2EPM"
+            },
+            "currentActiveAlias": "H2EPM"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-07-04T18:52:53.796Z",
+            "homepageId": "65830914",
+            "description": null,
+            "icon": null,
+            "name": "Customer Data Platform - WWHK",
+            "key": "CDPWW",
+            "id": "65830912",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/CDPWW"
+            },
+            "currentActiveAlias": "CDPWW"
+        },
+        {
+            "spaceOwnerId": "61e7b40738041c00685b0e99",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2025-05-21T23:08:31.645Z",
+            "homepageId": "65961986",
+            "description": null,
+            "icon": null,
+            "name": "Bang Plee New Main DC - WTCTH",
+            "key": "THBP",
+            "id": "65961984",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/THBP"
+            },
+            "currentActiveAlias": "THBP"
+        },
+        {
+            "spaceOwnerId": "61e7b411eb1fb60071aa99e0",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-02-17T09:14:46Z",
+            "homepageId": "66093101",
+            "description": null,
+            "icon": null,
+            "name": "Order Management Microservices",
+            "key": "OMM",
+            "id": "66093099",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/OMM"
+            },
+            "currentActiveAlias": "OMM"
+        },
+        {
+            "spaceOwnerId": "624fb5b2ed4d6b0070186ce4",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-11-15T18:11:05.323Z",
+            "homepageId": "66617346",
+            "description": null,
+            "icon": null,
+            "name": "DAM",
+            "key": "EDAM",
+            "id": "66617344",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/EDAM"
+            },
+            "currentActiveAlias": "EDAM"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-06-18T22:36:14.341Z",
+            "homepageId": "66781187",
+            "description": null,
+            "icon": null,
+            "name": "IB Demand Planning Management - ASWHK",
+            "key": "IBDPM",
+            "id": "66781185",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/IBDPM"
+            },
+            "currentActiveAlias": "IBDPM"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-07-16T07:38:22Z",
+            "homepageId": "66912258",
+            "description": null,
+            "icon": null,
+            "name": "Basket Processing Gateway - Asia",
+            "key": "BPG",
+            "id": "66912256",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/BPG"
+            },
+            "currentActiveAlias": "BPG"
+        },
+        {
+            "spaceOwnerId": "62fa0dd52e3849d13776a4d2",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-09-24T18:05:39.095Z",
+            "homepageId": "67043335",
+            "description": null,
+            "icon": null,
+            "name": "WatsOn Promo",
+            "key": "WOPASIA",
+            "id": "67043333",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/WOPASIA"
+            },
+            "currentActiveAlias": "WOPASIA"
+        },
+        {
+            "spaceOwnerId": "62eb2bd4432ef494c8ca2e62",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-07-06T23:53:17.043Z",
+            "homepageId": "67174402",
+            "description": null,
+            "icon": null,
+            "name": "Dangerous Goods Order Splitting by Item UDA - WTCMY DC930",
+            "key": "EMDG",
+            "id": "67174400",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/EMDG"
+            },
+            "currentActiveAlias": "EMDG"
+        },
+        {
+            "spaceOwnerId": "60a3682575e875006f0d12ac",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-09-10T18:18:12.621Z",
+            "homepageId": "67305475",
+            "description": null,
+            "icon": null,
+            "name": "IC Portal 2.0",
+            "key": "ICP2",
+            "id": "67305473",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ICP2"
+            },
+            "currentActiveAlias": "ICP2"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2019-10-19T05:41:18Z",
+            "homepageId": "67436547",
+            "description": null,
+            "icon": null,
+            "name": "BHI Project",
+            "key": "BP",
+            "id": "67436545",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/BP"
+            },
+            "currentActiveAlias": "BP"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-06-17T02:23:12Z",
+            "homepageId": "67567618",
+            "description": null,
+            "icon": null,
+            "name": "Daocloud platform operation and maintain",
+            "key": "DPOM",
+            "id": "67567616",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/DPOM"
+            },
+            "currentActiveAlias": "DPOM"
+        },
+        {
+            "spaceOwnerId": "61e7b3eb9d17400069dd1fe7",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-06-19T23:57:10.984Z",
+            "homepageId": "67698690",
+            "description": null,
+            "icon": null,
+            "name": "Identity Portal - WTCHK",
+            "key": "IDPWHK",
+            "id": "67698688",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/IDPWHK"
+            },
+            "currentActiveAlias": "IDPWHK"
+        },
+        {
+            "spaceOwnerId": "62c0584dfbc1f7c647ba851a",
+            "authorId": "62c0584dfbc1f7c647ba851a",
+            "createdAt": "2017-11-27T10:16:09Z",
+            "homepageId": "67829762",
+            "description": null,
+            "icon": null,
+            "name": "Big Data",
+            "key": "BD",
+            "id": "67829760",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/BD"
+            },
+            "currentActiveAlias": "BD"
+        },
+        {
+            "spaceOwnerId": "557058:3a7bc499-81ef-4be6-b313-fa76bb0f8baa",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-01-07T18:24:17.099Z",
+            "homepageId": "67960837",
+            "description": null,
+            "icon": null,
+            "name": "WECHAT - FTRHK",
+            "key": "FTRWEC",
+            "id": "67960835",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/FTRWEC"
+            },
+            "currentActiveAlias": "FTRWEC"
+        },
+        {
+            "spaceOwnerId": "61e7b3fc7ae0dc006aa448d3",
+            "authorId": "61e7b375f0ed04006884d0c5",
+            "createdAt": "2018-01-10T06:24:41Z",
+            "homepageId": "68091914",
+            "description": null,
+            "icon": null,
+            "name": "Infrastructure - DBA Team Home",
+            "key": "IDT",
+            "id": "68091912",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/IDT"
+            },
+            "currentActiveAlias": "IDT"
+        },
+        {
+            "spaceOwnerId": "628ccc0d88ebba006f9530c2",
+            "authorId": "628ccc0d88ebba006f9530c2",
+            "createdAt": "2017-11-30T09:33:32Z",
+            "homepageId": "68222990",
+            "description": null,
+            "icon": null,
+            "name": "Data Science Team Knowledge Sharing",
+            "key": "DSTKS",
+            "id": "68222988",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/DSTKS"
+            },
+            "currentActiveAlias": "DSTKS"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-10-17T19:32:08.449Z",
+            "homepageId": "68354050",
+            "description": null,
+            "icon": null,
+            "name": "Bigfix",
+            "key": "Bigfix",
+            "id": "68354048",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/Bigfix"
+            },
+            "currentActiveAlias": "Bigfix"
+        },
+        {
+            "spaceOwnerId": "61e7b3b87ae0dc006aa444d5",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-04-28T18:09:26.539Z",
+            "homepageId": "68485122",
+            "description": null,
+            "icon": null,
+            "name": "WINS/MDM Interface",
+            "key": "WINMDM",
+            "id": "68485120",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/WINMDM"
+            },
+            "currentActiveAlias": "WINMDM"
+        },
+        {
+            "spaceOwnerId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2024-09-29T17:34:29.661Z",
+            "homepageId": "68616195",
+            "description": null,
+            "icon": null,
+            "name": "InnerSource - TECHLab",
+            "key": "INSRC",
+            "id": "68616193",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/INSRC"
+            },
+            "currentActiveAlias": "INSRC"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-06-24T07:32:54Z",
+            "homepageId": "68780034",
+            "description": null,
+            "icon": null,
+            "name": "DC2 - WTCTH",
+            "key": "KKDC",
+            "id": "68780032",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/KKDC"
+            },
+            "currentActiveAlias": "KKDC"
+        },
+        {
+            "spaceOwnerId": "5d248fefafbc2a0c25110033",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2022-03-25T08:02:46Z",
+            "homepageId": "68911112",
+            "description": null,
+            "icon": null,
+            "name": "BlueDolphin - GIT",
+            "key": "EABD",
+            "id": "68911110",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/EABD"
+            },
+            "currentActiveAlias": "EABD"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-04-21T07:11:36Z",
+            "homepageId": "69042178",
+            "description": null,
+            "icon": null,
+            "name": "WMS - FTRHK",
+            "key": "WMS",
+            "id": "69042176",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/WMS"
+            },
+            "currentActiveAlias": "WMS"
+        },
+        {
+            "spaceOwnerId": "61e7b375f0ed04006884d0c5",
+            "authorId": "61e7b375f0ed04006884d0c5",
+            "createdAt": "2017-12-21T07:10:08Z",
+            "homepageId": "69173255",
+            "description": null,
+            "icon": null,
+            "name": "International Buying",
+            "key": "IB",
+            "id": "69173253",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/IB"
+            },
+            "currentActiveAlias": "IB"
+        },
+        {
+            "spaceOwnerId": "712020:77f19515-65f2-4732-b396-33d456d4ff43",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-05-23T19:15:12.827Z",
+            "homepageId": "69304322",
+            "description": null,
+            "icon": null,
+            "name": "DCE5 - GIT",
+            "key": "DCE5GIT",
+            "id": "69304320",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/DCE5GIT"
+            },
+            "currentActiveAlias": "DCE5GIT"
+        },
+        {
+            "spaceOwnerId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2024-09-09T23:04:51.533Z",
+            "homepageId": "69435395",
+            "description": null,
+            "icon": null,
+            "name": "WOLS - GIT",
+            "key": "WOLS2",
+            "id": "69435393",
+            "type": "collaboration",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/WOLS2"
+            },
+            "currentActiveAlias": "WOLS2"
+        },
+        {
+            "spaceOwnerId": "5d6dd9ba7dfaa80d9053ca35",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2025-05-27T17:55:48.397Z",
+            "homepageId": "69566466",
+            "description": null,
+            "icon": null,
+            "name": "IT Genie",
+            "key": "ITGEN",
+            "id": "69566464",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/ITGEN"
+            },
+            "currentActiveAlias": "ITGEN"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-05-06T06:25:54Z",
+            "homepageId": "69697538",
+            "description": null,
+            "icon": null,
+            "name": "DC Transformation - WTCHK",
+            "key": "HKT1",
+            "id": "69697536",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/HKT1"
+            },
+            "currentActiveAlias": "HKT1"
+        },
+        {
+            "spaceOwnerId": "61e7b3a054627a00706a480f",
+            "authorId": "61e7b3a054627a00706a480f",
+            "createdAt": "2018-02-12T07:58:19Z",
+            "homepageId": "69828610",
+            "description": null,
+            "icon": null,
+            "name": "BPM/eWorkflow - Asia",
+            "key": "BPM",
+            "id": "69828608",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/BPM"
+            },
+            "currentActiveAlias": "BPM"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-04-28T07:03:32Z",
+            "homepageId": "69959682",
+            "description": null,
+            "icon": null,
+            "name": "WOP - WTCCN",
+            "key": "WOPCN",
+            "id": "69959680",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/WOPCN"
+            },
+            "currentActiveAlias": "WOPCN"
+        },
+        {
+            "spaceOwnerId": "61f2668178b7fd0072f5ef79",
+            "authorId": "61f2668178b7fd0072f5ef79",
+            "createdAt": "2023-07-14T00:41:10.675Z",
+            "homepageId": "70090754",
+            "description": null,
+            "icon": null,
+            "name": "Kevin Cheung (ASWG - Team Leader, GIT Asia)",
+            "key": "~61f2668178b7fd0072f5ef79",
+            "id": "70090752",
+            "type": "personal",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/~61f2668178b7fd0072f5ef79"
+            },
+            "currentActiveAlias": "~61f2668178b7fd0072f5ef79"
+        },
+        {
+            "spaceOwnerId": "61e7b375f0ed04006884d0c5",
+            "authorId": "61e7b375f0ed04006884d0c5",
+            "createdAt": "2017-09-21T06:59:45Z",
+            "homepageId": "70221831",
+            "description": null,
+            "icon": null,
+            "name": "Development",
+            "key": "DEV",
+            "id": "70221829",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/DEV"
+            },
+            "currentActiveAlias": "DEV"
+        },
+        {
+            "spaceOwnerId": "61f2659e78b7fd0072f5e418",
+            "authorId": "61e7b375f0ed04006884d0c5",
+            "createdAt": "2017-12-21T07:04:45Z",
+            "homepageId": "70352907",
+            "description": null,
+            "icon": null,
+            "name": "Business Intelligence",
+            "key": "BI",
+            "id": "70352905",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/BI"
+            },
+            "currentActiveAlias": "BI"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-02-07T23:16:00.023Z",
+            "homepageId": "70483970",
+            "description": null,
+            "icon": null,
+            "name": "WTCHK eDC Automation",
+            "key": "WEDC",
+            "id": "70483968",
+            "type": "global",
+            "status": "archived",
+            "_links": {
+                "webui": "/spaces/WEDC"
+            },
+            "currentActiveAlias": "WEDC"
+        },
+        {
+            "spaceOwnerId": "61f264c39e8939006922bae0",
+            "authorId": "61f264c39e8939006922bae0",
+            "createdAt": "2020-08-18T11:03:33Z",
+            "homepageId": "70615043",
+            "description": null,
+            "icon": null,
+            "name": "Knowledge Base CTS",
+            "key": "KBC",
+            "id": "70615041",
+            "type": "global",
+            "status": "current",
+            "_links": {
+                "webui": "/spaces/KBC"
+            },
+            "currentActiveAlias": "KBC"
+        },
+        {
+            "spaceOwnerId": "61e7b375f0ed04006884d0c5",
+            "authorId": "61e7b375f0ed04006884d0c5",
+            "createdAt": "2017-05-26T03:07:20Z",
+            "homepageId": "57245735",
+            "description": null,
+            "icon": null,
+            "status": "archived",
+            "name": "A.S Watson",
+            "key": "WAT",
+            "id": "57245733",
+            "type": "global",
+            "_links": {
+                "webui": "/spaces/WAT"
+            },
+            "currentActiveAlias": "WAT"
+        },
+        {
+            "spaceOwnerId": "61e7b3b87ae0dc006aa444d5",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-04-08T18:42:07.004Z",
+            "homepageId": "72908802",
+            "description": null,
+            "icon": null,
+            "status": "archived",
+            "name": "eDC Dashboard",
+            "key": "WDASHB",
+            "id": "72908800",
+            "type": "global",
+            "_links": {
+                "webui": "/spaces/WDASHB"
+            },
+            "currentActiveAlias": "WDASHB"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-02-07T23:16:00.023Z",
+            "homepageId": "70483970",
+            "description": null,
+            "icon": null,
+            "status": "archived",
+            "name": "WTCHK eDC Automation",
+            "key": "WEDC",
+            "id": "70483968",
+            "type": "global",
+            "_links": {
+                "webui": "/spaces/WEDC"
+            },
+            "currentActiveAlias": "WEDC"
+        },
+        {
+            "spaceOwnerId": "61e7b3b87ae0dc006aa444d5",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-04-28T18:09:26.539Z",
+            "homepageId": "68485122",
+            "description": null,
+            "icon": null,
+            "status": "archived",
+            "name": "WINS/MDM Interface",
+            "key": "WINMDM",
+            "id": "68485120",
+            "type": "global",
+            "_links": {
+                "webui": "/spaces/WINMDM"
+            },
+            "currentActiveAlias": "WINMDM"
+        },
+        {
+            "spaceOwnerId": "628ccc0cd5ec4f0069e7f4e1",
+            "authorId": "628ccc0cd5ec4f0069e7f4e1",
+            "createdAt": "2020-11-13T02:29:06Z",
+            "homepageId": "63078430",
+            "description": null,
+            "icon": null,
+            "status": "current",
+            "name": "ASW GIT WINS Support",
+            "key": "WINSSupport",
+            "id": "63078428",
+            "type": "global",
+            "_links": {
+                "webui": "/spaces/WINSSupport"
+            },
+            "currentActiveAlias": "WINSSupport"
+        },
+        {
+            "spaceOwnerId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2024-08-04T22:35:18.576Z",
+            "homepageId": "32210946",
+            "description": null,
+            "icon": null,
+            "status": "archived",
+            "name": "PES - WI",
+            "key": "WIPES",
+            "id": "32210944",
+            "type": "global",
+            "_links": {
+                "webui": "/spaces/WIPES"
+            },
+            "currentActiveAlias": "WIPES"
+        },
+        {
+            "spaceOwnerId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2024-08-04T23:15:26.162Z",
+            "homepageId": "34209794",
+            "description": null,
+            "icon": null,
+            "status": "archived",
+            "name": "SA AAC - WI",
+            "key": "WISAAC",
+            "id": "34209792",
+            "type": "global",
+            "_links": {
+                "webui": "/spaces/WISAAC"
+            },
+            "currentActiveAlias": "WISAAC"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2020-04-21T07:11:36Z",
+            "homepageId": "69042178",
+            "description": null,
+            "icon": null,
+            "status": "archived",
+            "name": "WMS - FTRHK",
+            "key": "WMS",
+            "id": "69042176",
+            "type": "global",
+            "_links": {
+                "webui": "/spaces/WMS"
+            },
+            "currentActiveAlias": "WMS"
+        },
+        {
+            "spaceOwnerId": "61e7b3ae38041c00685b0aee",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-09-11T18:07:01.991Z",
+            "homepageId": "65437699",
+            "description": null,
+            "icon": null,
+            "status": "current",
+            "name": "Watson Online Services - GIT",
+            "key": "WOLS",
+            "id": "65437697",
+            "type": "global",
+            "_links": {
+                "webui": "/spaces/WOLS"
+            },
+            "currentActiveAlias": "WOLS"
+        },
+        {
+            "spaceOwnerId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2024-09-09T23:04:51.533Z",
+            "homepageId": "69435395",
+            "description": null,
+            "icon": null,
+            "status": "archived",
+            "name": "WOLS - GIT",
+            "key": "WOLS2",
+            "id": "69435393",
+            "type": "collaboration",
+            "_links": {
+                "webui": "/spaces/WOLS2"
+            },
+            "currentActiveAlias": "WOLS2"
+        },
+        {
+            "spaceOwnerId": "62fa0dd52e3849d13776a4d2",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-09-24T18:05:39.095Z",
+            "homepageId": "67043335",
+            "description": null,
+            "icon": null,
+            "status": "current",
+            "name": "WatsOn Promo",
+            "key": "WOPASIA",
+            "id": "67043333",
+            "type": "global",
+            "_links": {
+                "webui": "/spaces/WOPASIA"
+            },
+            "currentActiveAlias": "WOPASIA"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2021-04-28T07:03:32Z",
+            "homepageId": "69959682",
+            "description": null,
+            "icon": null,
+            "status": "archived",
+            "name": "WOP - WTCCN",
+            "key": "WOPCN",
+            "id": "69959680",
+            "type": "global",
+            "_links": {
+                "webui": "/spaces/WOPCN"
+            },
+            "currentActiveAlias": "WOPCN"
+        },
+        {
+            "spaceOwnerId": "557058:fbdca76a-dc8b-45d2-b73d-714320a4944d",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-04-24T22:54:04.632Z",
+            "homepageId": "71729159",
+            "description": null,
+            "icon": null,
+            "status": "current",
+            "name": "WTCTW - Solutions Team",
+            "key": "WSC",
+            "id": "71729157",
+            "type": "global",
+            "_links": {
+                "webui": "/spaces/WSC"
+            },
+            "currentActiveAlias": "WSC"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2024-07-16T00:28:41.636Z",
+            "homepageId": "46792706",
+            "description": null,
+            "icon": null,
+            "status": "archived",
+            "name": "CR - WTCTW",
+            "key": "WSR",
+            "id": "46792704",
+            "type": "global",
+            "_links": {
+                "webui": "/spaces/WSR"
+            },
+            "currentActiveAlias": "WSR"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2023-01-30T23:08:51.466Z",
+            "homepageId": "71073794",
+            "description": null,
+            "icon": null,
+            "status": "archived",
+            "name": "WTCHK - Support",
+            "key": "WTCSUP",
+            "id": "71073792",
+            "type": "global",
+            "_links": {
+                "webui": "/spaces/WTCSUP"
+            },
+            "currentActiveAlias": "WTCSUP"
+        },
+        {
+            "spaceOwnerId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "authorId": "712020:3616a286-985b-4099-a32d-3f756d5b9f9e",
+            "createdAt": "2025-05-19T18:31:38.518Z",
+            "homepageId": "59015170",
+            "description": null,
+            "icon": null,
+            "status": "archived",
+            "name": "TMS - WTCHK",
+            "key": "WTCTMS",
+            "id": "59015168",
+            "type": "global",
+            "_links": {
+                "webui": "/spaces/WTCTMS"
+            },
+            "currentActiveAlias": "WTCTMS"
+        },
+        {
+            "spaceOwnerId": "5e9554677a2ea00c1533eec3",
+            "authorId": "5e9554677a2ea00c1533eec3",
+            "createdAt": "2025-01-10T00:26:15.104Z",
+            "homepageId": "49381378",
+            "description": null,
+            "icon": null,
+            "status": "archived",
+            "name": "RETEK Server Upgrade - WWCN",
+            "key": "WWCUPG",
+            "id": "49381376",
+            "type": "global",
+            "_links": {
+                "webui": "/spaces/WWCUPG"
+            },
+            "currentActiveAlias": "WWCUPG"
+        }
+    ]
+}
